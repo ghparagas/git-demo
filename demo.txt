@@ -3,3 +3,5 @@ Sample file
 Modified from develop notepad++
 
 New feature
+
+Nov 6 - new feature 2
