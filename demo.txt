@@ -2,4 +2,4 @@ Sample file
 
 Modified from develop notepad++
 
-New feature
+New feature - modified feature 1 (Nov 6)
